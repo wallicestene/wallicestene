@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wallicestene
-- 👀 I’m interested in web and software development.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate with Frontend developers
 - 📫 How to reach me +2547 94848717 instagram: @wallicestene
