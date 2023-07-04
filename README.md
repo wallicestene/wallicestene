@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wallicestene
-- 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in Frontend and Full-stack development.
+- 🌱 I’m currently learning NodeJs.
 - 💞️ I’m looking to collaborate with Frontend developers
 - 📫 How to reach me +2547 94848717 instagram: @wallicestene
 twitter: @wallicestene 
