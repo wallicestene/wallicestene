@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @wallicestene<br>- 👀 I’m interested in Frontend/Full-stack development.<br>- 🌱 I’m currently learning NodeJs.<br>- 💞️ I’m looking to collaborate with fullstack engineers<br>- 📫 How to reach me +2547 94848717 Portfolio: https://wallicestene-portfolio.netlify.app/
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wallicestene) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wallicestene-waweru-a26744249) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wallicestene) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wallicestene) 
 
